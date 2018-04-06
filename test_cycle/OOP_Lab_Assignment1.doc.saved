@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="35" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.0" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-IN; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">2018-01-08T06:03:10Z</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.date">2018-01-08T05:46:58Z</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<styles>
+<s type="P" name="Normal" followedby="Normal" props="text-decoration:none; text-indent:0in; margin-top:0pt; margin-left:0pt; font-stretch:normal; line-height:1.0; text-align:left; bgcolor:transparent; lang:-none-; dom-dir:ltr; margin-bottom:0pt; font-weight:normal; font-variant:normal; color:000000; text-position:normal; font-size:12pt; margin-right:0pt; font-style:normal; widows:2; font-family:Liberation Serif"/>
+<s type="P" name="Caption" basedon="Normal" followedby="Caption" props="font-family:Liberation Serif; font-size:12pt; dom-dir:ltr; margin-bottom:6pt; lang:-none-; line-height:1.0; text-align:left; font-style:italic; margin-top:6pt"/>
+<s type="P" name="Heading" basedon="Normal" followedby="Text Body" props="keep-with-next:yes; font-size:14pt; dom-dir:ltr; margin-bottom:6pt; lang:-none-; line-height:1.0; text-align:left; margin-top:12pt; font-family:Liberation Sans"/>
+<s type="P" name="Index" basedon="Normal" followedby="Index" props="text-align:left; lang:-none-; font-size:12pt; line-height:1.0; font-family:Liberation Serif; dom-dir:ltr"/>
+<s type="P" name="List" basedon="Text Body" followedby="List" props="font-family:Liberation Serif; font-size:12pt; dom-dir:ltr; margin-bottom:7pt; lang:-none-; line-height:1.2; text-align:left"/>
+<s type="P" name="Text Body" basedon="Normal" followedby="Text Body" props="font-family:Liberation Serif; font-size:12pt; dom-dir:ltr; margin-bottom:7pt; lang:-none-; line-height:1.2; text-align:left"/>
+</styles>
+<lists>
+<l id="1000" parentid="0" type="0" start-value="1" list-delim="%L." list-decimal="."/>
+</lists>
+<pagesize pagetype="A4" orientation="portrait" width="8.267717" height="11.692913" units="in" page-scale="1.000000"/>
+<section xid="1" props="page-margin-right:0.7875in; section-restart-value:1; dom-dir:ltr; section-space-after:0.0000in; page-margin-footer:0.2875in; page-margin-header:0.5000in; page-margin-left:0.7875in; page-margin-top:0.7875in; page-margin-bottom:0.7875in">
+<p style="Normal" xid="2" props="text-align:center; line-height:1.5; dom-dir:ltr"><c props="lang:-none-; font-weight:bold; font-size:12pt; font-family:Liberation Serif; text-decoration:underline">RLMCA132Object Oriented Programming Lab</c></p>
+<p style="Normal" xid="3" props="text-align:center; line-height:1.5; dom-dir:ltr"><c props="lang:-none-; font-weight:bold; font-size:12pt; font-family:Liberation Serif; text-decoration:underline">Assignment 1</c></p>
+<p style="Normal" xid="4" props="text-align:justify; line-height:1.5; dom-dir:ltr"></p>
+<p style="Normal" xid="5" props="text-align:justify; line-height:1.5; dom-dir:ltr"><c props="lang:-none-; font-weight:bold; font-size:12pt; font-family:Liberation Serif; text-decoration:underline">Objective:</c><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif; font-weight:bold"> Develop programs using object oriented programming concepts &amp; Learn Input output statements of Java.</c></p>
+<p style="Normal" xid="6" props="text-align:justify; line-height:1.5; dom-dir:ltr"></p>
+<p level="1" listid="1000" parentid="0" style="Normal" xid="7" props="list-style:Numbered List; tabstops:0.5000in/L; dom-dir:ltr; start-value:1; line-height:1.5; text-align:justify; field-font:Times New Roman"><field type="list_label" xid="8" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif">Print a message on Screen</c></p>
+<p level="1" listid="1000" parentid="0" style="Normal" xid="9" props="list-style:Numbered List; tabstops:0.5000in/L; dom-dir:ltr; start-value:1; line-height:1.5; text-align:justify; field-font:Times New Roman"><field type="list_label" xid="10" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif">Print the following</c></p>
+<p style="Normal" xid="11" props="text-align:justify; line-height:1.5; dom-dir:ltr"><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif">HELLO WORLD</c></p>
+<p style="Normal" xid="12" props="text-align:justify; line-height:1.5; dom-dir:ltr"><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif">HELLO WORL</c></p>
+<p style="Normal" xid="13" props="text-align:justify; line-height:1.5; dom-dir:ltr"><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif">...</c></p>
+<p style="Normal" xid="14" props="text-align:justify; line-height:1.5; dom-dir:ltr"><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif">...</c></p>
+<p style="Normal" xid="15" props="text-align:justify; line-height:1.5; dom-dir:ltr"><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif">...</c></p>
+<p style="Normal" xid="16" props="text-align:justify; line-height:1.5; dom-dir:ltr"><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif">H</c></p>
+<p level="1" listid="1000" parentid="0" style="Normal" xid="17" props="list-style:Numbered List; tabstops:0.5000in/L; dom-dir:ltr; start-value:1; line-height:1.5; text-align:justify; field-font:Times New Roman"><field type="list_label" xid="18" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif">Read a string (all small letters). Display the string in capital letters. Use Scanner class for implementing I/O functions</c></p>
+<p level="1" listid="1000" parentid="0" style="Normal" xid="19" props="list-style:Numbered List; tabstops:0.5000in/L; dom-dir:ltr; start-value:1; line-height:1.5; text-align:justify; field-font:Times New Roman"><field type="list_label" xid="20" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif">Add two numbers, such that the input should be accepted as command line arguments.</c></p>
+<p level="1" listid="1000" parentid="0" style="Normal" xid="21" props="list-style:Numbered List; tabstops:0.5000in/L; dom-dir:ltr; start-value:1; line-height:1.5; text-align:justify; field-font:Times New Roman"><field type="list_label" xid="22" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif">Read the employee code,employee name and basic pay of an employee and print a salary slip in the following format.</c></p>
+<p style="Normal" xid="23" props="text-align:center; line-height:1.5; dom-dir:ltr"></p>
+<p style="Normal" xid="24" props="text-align:justify; line-height:1.5; dom-dir:ltr"><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif">Salary Slip</c></p>
+<p style="Normal" xid="25" props="text-align:justify; line-height:1.5; dom-dir:ltr"><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif">EmpCode:						EmpName:</c></p>
+<p style="Normal" xid="26" props="text-align:justify; line-height:1.5; dom-dir:ltr"><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif">BP:							PF:</c></p>
+<p style="Normal" xid="27" props="text-align:justify; line-height:1.5; dom-dir:ltr"><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif">DA:							LIC:</c></p>
+<p style="Normal" xid="28" props="text-align:justify; line-height:1.5; dom-dir:ltr"><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif">HRA:							CCA:</c></p>
+<p style="Normal" xid="29" props="text-align:justify; line-height:1.5; dom-dir:ltr"><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif">	---------------------------------------------------------------------------------------------------------------</c></p>
+<p style="Normal" xid="30" props="text-align:justify; line-height:1.5; dom-dir:ltr"><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif">Gross salary:</c></p>
+<p style="Normal" xid="31" props="text-align:justify; line-height:1.5; dom-dir:ltr"></p>
+<p style="Normal" xid="32" props="text-align:justify; line-height:1.5; dom-dir:ltr"><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif">Note :  DA=72%of BP, HRA=1000, CCA=500, PF=5% of(BP+DA), LIC=2000, </c></p>
+<p style="Normal" xid="33" props="text-align:justify; line-height:1.5; dom-dir:ltr"><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif">Gross salary: BP+DA+HRA+CCA-(PF+LIC)</c></p>
+<p style="Normal" xid="34" props="text-align:justify; line-height:1.5; dom-dir:ltr"><c props="lang:-none-; font-size:12pt; font-family:Liberation Serif">Gross salary calculation must be performed in a separate user defined function.</c></p>
+<p xid="35"></p>
+</section>
+</abiword>
